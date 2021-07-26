@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://camo.githubusercontent.com/" alt="jaeskim's 42 stats" data-canonical-src="https://badge42.herokuapp.com/api/stats/fd-agnes" style="max-width:100%;">
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/JaeSeoKim/badge42)
+
