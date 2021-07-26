@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/fd-agnes?darkmode=trueprivacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/fd-agnes?privacyEmail=truedarkmode=true)](https://github.com/JaeSeoKim/badge42)
