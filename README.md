@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @TylerDurden230
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+TylerDurden230/TylerDurden230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+<img src="https://camo.githubusercontent.com/f57b042b1d52085328b71a3f4c50fd1153814fc08bffef1e302ee78423705115/68747470733a2f2f626164676534322e6865726f6b756170702e636f6d2f6170692f73746174732f646c616e6f747465" alt="jaeskim's 42 stats" data-canonical-src="https://badge42.herokuapp.com/api/stats/fd-agnes" style="max-width:100%;">
