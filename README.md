@@ -1,5 +1,6 @@
 <!--- <img src="https://badge42.vercel.app/api/v2/cl48k6af0000609m96gdo9tb2/stats?cursusId=21&coalitionId=124"> --->
 
+<a href=""><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
 <a href="https://app.daily.dev/tylerdurden230"><img src="https://api.daily.dev/devcards/b45b61fbaa7c4e969579273c460956fa.png?r=vgh" width="400" alt="Flo D's Dev Card"/></a>
 
 <!---
