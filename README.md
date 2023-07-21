@@ -23,15 +23,11 @@ My interests are:
 
 <!-- Social icons section -->
 <p align="left">
- <a href="https://twitter.com/toby_solutions"><img width="26px" alt="Twitter" title="Twitter" src="https://i.imgur.com/LS08Auh.png"/></a>
- <a href="https://linkedin.com/in/tobiloba-adedeji" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/VgmUYaC.png"/></a>
+ <a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/VgmUYaC.png"/></a>
 </p>   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
 <a href="https://app.daily.dev/tylerdurden230"><img src="https://api.daily.dev/devcards/b45b61fbaa7c4e969579273c460956fa.png?r=vgh" width="400" alt="Flo D's Dev Card"/></a>
-
- 
-O dabo✌!! <br>
  
 
 
