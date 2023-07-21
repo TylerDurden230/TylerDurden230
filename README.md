@@ -4,7 +4,6 @@
 
 <div style="display: flex; flex-direction: column; justify-content: center: aling-items: center">
 <a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
-<a href="https://app.daily.dev/tylerdurden230"><img src="https://api.daily.dev/devcards/b45b61fbaa7c4e969579273c460956fa.png?r=vgh" width="400" alt="Flo D's Dev Card"/></a>
 </div>
 
 <!---
@@ -12,6 +11,28 @@ TylerDurden230/TylerDurden230 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+My interests are: 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=500&color=305042&center=true&vCenter=true&width=1000&height=100&lines=Everything_About_Frontend;DevOps;Python)](https://git.io/typing-svg)
+
+### 👨‍💻 Skills
+    💬 Javascript
+    💬 Typescript 
+    💬 Python
+    💬 C/C++  
+
+<!-- Social icons section -->
+<p align="left">
+ <a href="https://twitter.com/toby_solutions"><img width="26px" alt="Twitter" title="Twitter" src="https://i.imgur.com/LS08Auh.png"/></a>
+ <a href="https://linkedin.com/in/tobiloba-adedeji" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/VgmUYaC.png"/></a>
+</p>   &#8287;&#8287;&#8287;&#8287;&#8287;
+
+
+<a href="https://app.daily.dev/tylerdurden230"><img src="https://api.daily.dev/devcards/b45b61fbaa7c4e969579273c460956fa.png?r=vgh" width="400" alt="Flo D's Dev Card"/></a>
+
+ 
+O dabo✌!! <br>
+ 
 
 
 
