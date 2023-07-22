@@ -6,6 +6,10 @@
 <a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
 </div>
 
+<a href="https://github.com/FranFrau?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDurden230&layout=compact&theme=tokyonight" width="380" height="200">
+</a>
+
 <!---
 TylerDurden230/TylerDurden230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
