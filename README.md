@@ -12,7 +12,7 @@
 <a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
 </div>
 
-<a href="https://github.com/FranFrau?tab=repositories">
+<a href="https://github.com/TylerDurden230?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerDurden230&layout=compact&theme=tokyonight" width="380" height="200">
 </a>
 
