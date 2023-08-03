@@ -18,7 +18,8 @@
 
 <div style="display: flex; justify-content: center; aling-items: center">
     <a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
-    <a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="50px" src="https://i.imgur.com/VgmUYaC.png"/>Find me on LinkedIn</a>
+    <a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="50px" src="https://i.imgur.com/VgmUYaC.png"/></a>
+    <div>Find me on LinkedIn</div>
 </div>
 
 
