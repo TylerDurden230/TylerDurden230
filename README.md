@@ -16,9 +16,11 @@
 
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerdurden230&show_icons=true&theme=transparent)
 
-<div style="display: flex; flex-direction: column; justify-content: center: aling-items: center">
+<div style="display: flex; justify-content: center: aling-items: center">
 <a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
+ <a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="260px" src="https://i.imgur.com/VgmUYaC.png"/></a>
 </div>
+
 
 <!---
 <a href="https://github.com/TylerDurden230?tab=repositories">
@@ -32,9 +34,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Social icons section -->
-<p align="left">
- <a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/VgmUYaC.png"/></a>
-</p>   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
 <a href="https://app.daily.dev/tylerdurden230"><img src="https://api.daily.dev/devcards/b45b61fbaa7c4e969579273c460956fa.png?r=vgh" width="400" alt="Flo D's Dev Card"/></a>
