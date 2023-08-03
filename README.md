@@ -33,10 +33,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--- Social icons section --->
-
+### Find me on LinkedIn
 <div>
-<a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="50px" src="https://i.imgur.com/VgmUYaC.png"/></a>
-<p>Find me on LinkedIn</p>
+    <a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="50px" src="https://i.imgur.com/VgmUYaC.png"/></a>
 </div>
 
 <a href="https://app.daily.dev/tylerdurden230"><img src="https://api.daily.dev/devcards/b45b61fbaa7c4e969579273c460956fa.png?r=vgh" width="200" alt="Flo D's Dev Card"/></a>
