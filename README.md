@@ -1,6 +1,6 @@
 My interests are: 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=500&color=305042&center=true&vCenter=true&width=1000&height=100&lines=Everything_About_Frontend;DevOps;Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=500&color=305042&center=true&vCenter=true&width=1000&height=100&lines=Everything_About_Frontend;Python)](https://git.io/typing-svg)
 
 [![fd-agnes's 42 stats](https://badge42.vercel.app/api/v2/cl48k6af0000609m96gdo9tb2/stats?cursusId=21&coalitionId=124)](https://github.com/JaeSeoKim/badge42)
 
