@@ -14,7 +14,7 @@
     💬 Python
     💬 C/C++ 
 
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerdurden230&show_icons=true&theme=transparent)
+<!--- ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerdurden230&show_icons=true&theme=transparent) --->
 
 <div style="display: flex; justify-content: center; aling-items: center">
     <a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
