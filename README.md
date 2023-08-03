@@ -6,6 +6,8 @@
 
 [![fd-agnes's 42 stats](https://badge42.vercel.app/api/v2/cl48k6af0000609m96gdo9tb2/stats?cursusId=21&coalitionId=124)](https://github.com/JaeSeoKim/badge42)
 <a href="https://app.daily.dev/tylerdurden230"><img src="https://api.daily.dev/devcards/b45b61fbaa7c4e969579273c460956fa.png?r=vgh" width="200" alt="Flo D's Dev Card"/></a>
+<a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
+
 
 ### 👨‍💻 Skills
 #### Frontend
@@ -20,7 +22,6 @@
 <!--- ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerdurden230&show_icons=true&theme=transparent) --->
 
 <div style="display: flex; justify-content: center; aling-items: center">
-    <a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
 </div>
 
 
