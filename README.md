@@ -18,8 +18,6 @@
 
 <div style="display: flex; justify-content: center; aling-items: center">
     <a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
-    <a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="50px" src="https://i.imgur.com/VgmUYaC.png"/></a>
-    <div>Find me on LinkedIn</div>
 </div>
 
 
@@ -34,10 +32,14 @@ TylerDurden230/TylerDurden230 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- Social icons section -->
+<!--- Social icons section --->
 
+<div>
+<a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="50px" src="https://i.imgur.com/VgmUYaC.png"/></a>
+<p>Find me on LinkedIn</p>
+</div>
 
-<a href="https://app.daily.dev/tylerdurden230"><img src="https://api.daily.dev/devcards/b45b61fbaa7c4e969579273c460956fa.png?r=vgh" width="400" alt="Flo D's Dev Card"/></a>
+<a href="https://app.daily.dev/tylerdurden230"><img src="https://api.daily.dev/devcards/b45b61fbaa7c4e969579273c460956fa.png?r=vgh" width="200" alt="Flo D's Dev Card"/></a>
  
 
 
