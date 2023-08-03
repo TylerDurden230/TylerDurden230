@@ -1,4 +1,4 @@
-My interests are: 
+### My interests
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=40&pause=500&color=305042&center=true&vCenter=true&width=1000&height=100&lines=Everything_About_Frontend;Python)](https://git.io/typing-svg)
 
