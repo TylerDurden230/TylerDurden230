@@ -16,9 +16,9 @@
 
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerdurden230&show_icons=true&theme=transparent)
 
-<div style="display: flex; justify-content: center: aling-items: center">
-<a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
- <a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="260px" src="https://i.imgur.com/VgmUYaC.png"/></a>
+<div style="display: flex; justify-content: center; aling-items: center">
+    <a href="https://www.codewars.com/users/TylerDurden230"><img src="https://www.codewars.com/users/TylerDurden230/badges/large" alt="Tyler"/></a>
+    <a href="https://www.linkedin.com/in/flaviodagnese/" alt="LinkedIn"><img width="50px" src="https://i.imgur.com/VgmUYaC.png"/>Find me on LinkedIn</a>
 </div>
 
 
