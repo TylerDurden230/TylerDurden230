@@ -15,6 +15,7 @@
     💬 Javascript
     💬 Typescript 
     💬 React 
+    💬 Next.js 
 #### Backend
     💬 Python
     💬 C/C++ 
